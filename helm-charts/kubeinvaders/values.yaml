@@ -21,7 +21,7 @@ clusterRole:
   # true, a name based on fullname is generated
   name: kubeinvaders
 
-replicaCount: 1
+replicaCount: 5
 
 image:
   repository: luckysideburn/kubeinvaders
